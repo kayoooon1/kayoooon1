@@ -3,7 +3,7 @@
 <!--FFB6C1(baby pink) CBC3E3-->   
 <h3 align="center">About Me</h3>   
 <p align="center">
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>   
+<a href="https://www.linkedin.com/in/ka-yoon-kim-4a38a21b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>   
    
    
 <h3 align="center">Tech Stack</h3>   
