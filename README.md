@@ -1,7 +1,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&height=300&section=header&text=KaYoonKim();&fontSize=90&fontColor=ffffff)   
-<!--FFB6C1(baby pink) CBC3E3-->
-
+<!--FFB6C1(baby pink) CBC3E3-->   
+<h3 align="center">About Me</h3>   
+<p align="center">
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>   
+   
+   
 <h3 align="center">Tech Stack</h3>   
 
 <p align="center">
