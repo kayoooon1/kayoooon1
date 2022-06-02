@@ -2,8 +2,8 @@
 <!--![header](https://capsule-render.vercel.app/api?type=wave&color=B19CD9&height=300&section=header&text=KaYoonKim();&fontSize=90&fontColor=ffffff)-->   
 <!--FFB6C1(baby pink) CBC3E3-->   
 <!--![mp4](https://user-images.githubusercontent.com/60475072/157629887-dec11eee-4a48-4d36-9295-3452c897dcb3.gif)-->   
-<p align="right">   
-<img width="50%" src="https://user-images.githubusercontent.com/60475072/157629887-dec11eee-4a48-4d36-9295-3452c897dcb3.gif"/>   
+<p align="center">   
+<img width="30%" src="https://user-images.githubusercontent.com/60475072/157629887-dec11eee-4a48-4d36-9295-3452c897dcb3.gif"/>   
 <h3 align="center">About Me</h3>   
 <p align="center">
 <a href="https://www.linkedin.com/in/ka-yoon-kim-4a38a21b8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>   
