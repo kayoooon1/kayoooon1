@@ -33,7 +33,7 @@
    
 <!--[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=shiaky0905)](https://solved.ac/shiaky0905)-->       
    
-[![Yoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoooon1&theme=midnight-purple)](https://github.com/gayoooon1/github-readme-stats)
+[![Kayoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=gayoooon1&theme=midnight-purple)](https://github.com/gayoooon1/github-readme-stats)
    
   
    
